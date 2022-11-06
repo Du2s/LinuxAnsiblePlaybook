@@ -1,0 +1,6 @@
+---
+- name: Install base programs
+  dnf:
+    name: 
+      - konsole
+      - zsh
